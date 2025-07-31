@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "roomType": "Standard King",
+    "revenue": 125400,
+    "bookings": 890,
+    "averageRate": 140
+  },
+  {
+    "Id": 2,
+    "roomType": "Standard Queen",
+    "revenue": 98750,
+    "bookings": 725,
+    "averageRate": 135
+  },
+  {
+    "Id": 3,
+    "roomType": "Deluxe Suite",
+    "revenue": 187200,
+    "bookings": 520,
+    "averageRate": 360
+  },
+  {
+    "Id": 4,
+    "roomType": "Executive Suite",
+    "revenue": 156000,
+    "bookings": 325,
+    "averageRate": 480
+  },
+  {
+    "Id": 5,
+    "roomType": "Presidential Suite",
+    "revenue": 87500,
+    "bookings": 125,
+    "averageRate": 700
+  },
+  {
+    "Id": 6,
+    "roomType": "Junior Suite",
+    "revenue": 142800,
+    "bookings": 680,
+    "averageRate": 210
+  }
+]

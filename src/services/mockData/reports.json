@@ -1,0 +1,69 @@
+[
+  {
+    "Id": 1,
+    "type": "occupancy",
+    "title": "Weekly Occupancy Report",
+    "dateRange": {
+      "start": "2024-01-08",
+      "end": "2024-01-14"
+    },
+    "generatedAt": "2024-01-15T10:30:00Z",
+    "format": "pdf",
+    "status": "completed",
+    "data": {
+      "averageOccupancy": 83.2,
+      "peakOccupancy": 91.5,
+      "lowOccupancy": 76.0,
+      "totalRoomsNights": 1183
+    }
+  },
+  {
+    "Id": 2,
+    "type": "revenue",
+    "title": "Monthly Revenue Summary",
+    "dateRange": {
+      "start": "2023-12-01",
+      "end": "2023-12-31"
+    },
+    "generatedAt": "2024-01-02T09:15:00Z",
+    "format": "csv",
+    "status": "completed",
+    "data": {
+      "totalRevenue": 1342500,
+      "roomRevenue": 1089750,
+      "restaurantRevenue": 198600,
+      "otherRevenue": 54150
+    }
+  },
+  {
+    "Id": 3,
+    "type": "guest-satisfaction",
+    "title": "Q4 Guest Satisfaction Report",
+    "dateRange": {
+      "start": "2023-10-01",
+      "end": "2023-12-31"
+    },
+    "generatedAt": "2024-01-05T14:20:00Z",
+    "format": "pdf",
+    "status": "completed",
+    "data": {
+      "averageRating": 4.3,
+      "totalReviews": 1847,
+      "recommendationRate": 92.5,
+      "responseTime": 2.1
+    }
+  },
+  {
+    "Id": 4,
+    "type": "staff-performance",
+    "title": "January Staff Performance",
+    "dateRange": {
+      "start": "2024-01-01",
+      "end": "2024-01-15"
+    },
+    "generatedAt": "2024-01-15T16:45:00Z",
+    "format": "pdf",
+    "status": "generating",
+    "data": null
+  }
+]

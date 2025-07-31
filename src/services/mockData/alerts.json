@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "type": "occupancy",
+    "severity": "warning",
+    "metric": "Room Occupancy",
+    "currentValue": 72.5,
+    "threshold": 80,
+    "timestamp": "2024-01-15T14:30:00Z"
+  },
+  {
+    "Id": 2,
+    "type": "revenue",
+    "severity": "critical",
+    "metric": "Daily Revenue Target",
+    "currentValue": 38500,
+    "threshold": 45000,
+    "timestamp": "2024-01-15T16:45:00Z"
+  },
+  {
+    "Id": 3,
+    "type": "maintenance",
+    "severity": "warning",
+    "metric": "HVAC System - Floor 3",
+    "currentValue": 0,
+    "threshold": 0,
+    "timestamp": "2024-01-15T09:15:00Z"
+  },
+  {
+    "Id": 4,
+    "type": "occupancy",
+    "severity": "info",
+    "metric": "Weekend Booking Rate",
+    "currentValue": 65.0,
+    "threshold": 70,
+    "timestamp": "2024-01-15T11:20:00Z"
+  },
+  {
+    "Id": 5,
+    "type": "revenue",
+    "severity": "warning",
+    "metric": "Restaurant Revenue",
+    "currentValue": 8200,
+    "threshold": 10000,
+    "timestamp": "2024-01-15T18:00:00Z"
+  }
+]
